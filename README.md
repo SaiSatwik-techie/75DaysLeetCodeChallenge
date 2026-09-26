@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
