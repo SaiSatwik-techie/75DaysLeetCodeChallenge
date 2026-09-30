@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
@@ -40,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
