@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
