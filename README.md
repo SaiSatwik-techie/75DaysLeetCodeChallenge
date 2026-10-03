@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
