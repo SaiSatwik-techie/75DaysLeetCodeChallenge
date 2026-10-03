@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -64,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
